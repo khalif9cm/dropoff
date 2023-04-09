@@ -1,1 +1,193 @@
 # dropoff
+<div class="container">
+        <div class="row">
+            <div class="col text-start">
+              
+ <div class="keditable keditable-auto" style="text-align: left;">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="author" content="Marlboro Autorepair">
+  
+  <h1 style="padding-top: 3pt;padding-left: 62pt;text-indent: 0pt;text-align: left;">                    Marlboro Auto Repair, Tire & Collision</h1>
+  <h3 style="padding-top: 3pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">Marlboro Auto Repair</h3>
+  <p style="padding-top: 3pt;padding-left: 11pt;text-indent: 0pt;text-align: left;">7830 Penn Western CT, Unit A7 Upper Marlboro, MD 20722</p>
+  <p style="padding-left: 11pt;text-indent: 0pt;line-height: 13pt;text-align: left;">Tel: 301-735-7422 Fax: 302-497-3797</p>
+  <p style="padding-left: 11pt;text-indent: 0pt;text-align: left;"><a href="mailto:service@marlboroautorepair.com">service@marlboroautorepair.com</a>                                                                                                                                           <span style="color: var(--color1_175); font-family: var(--font1),sans-serif; font-size: 14pt; font-weight: 700; letter-spacing: -0.03em; text-align: right; text-indent: 0pt; background-color: var(--bs-body-bg);">REPAIR WORK ORDER</span></p>
+  <p style="text-indent: 0pt;text-align: left;"><br></p>
+  <table style="border-collapse:collapse;margin-left:6.00998pt" cellspacing="0">
+    <tbody>
+      <tr style="height:22pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt" bgcolor="#EAEDF3">
+          <p class="s1" style="padding-top: 4pt;padding-right: 4pt;text-indent: 0pt;text-align: right;">CLIENT NAME*</p>
+        </td>
+        <td style="width:440pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" colspan="8">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:27pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt" bgcolor="#EAEDF3">
+          <p class="s1" style="padding-top: 6pt;padding-right: 4pt;text-indent: 0pt;text-align: right;">CLIENT PHONE*</p>
+        </td>
+        <td style="width:136pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" colspan="3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+        <td style="width:68pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" bgcolor="#EAEDF3">
+          <p class="s1" style="padding-right: 3pt;text-indent: 0pt;line-height: 13pt;text-align: right;">DATE &</p>
+          <p class="s1" style="padding-right: 3pt;text-indent: 0pt;line-height: 13pt;text-align: right;">TIME</p>
+        </td>
+        <td style="width:236pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" colspan="4">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:22pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt" bgcolor="#EAEDF3">
+          <p class="s1" style="padding-top: 3pt;padding-right: 4pt;text-indent: 0pt;text-align: right;">Address*</p>
+        </td>
+        <td style="width:440pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:2pt;border-right-style:solid;border-right-width:1pt" colspan="8">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:24pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" bgcolor="#EAEDF3">
+          <p class="s1" style="padding-top: 5pt;padding-right: 4pt;text-indent: 0pt;text-align: right;">City*</p>
+        </td>
+        <td style="width:136pt;border-top-style:solid;border-top-width:2pt;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" colspan="3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p style="padding-left: 2pt;text-indent: 0pt;text-align: left;"></p>
+        </td>
+        <td style="width:68pt;border-top-style:solid;border-top-width:2pt;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p class="s1" style="padding-top: 5pt;padding-left: 31pt;text-indent: 0pt;text-align: left;">State*</p>
+        </td>
+        <td style="width:154pt;border-top-style:solid;border-top-width:2pt;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt" colspan="3">
+          <p class="s1" style="padding-top: 5pt;padding-left: 95pt;text-indent: 0pt;text-align: left;">Zip code*</p>
+        </td>
+        <td style="width:82pt;border-top-style:solid;border-top-width:2pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p style="padding-left: 2pt;text-indent: 0pt;text-align: left;"></p>
+        </td>
+      </tr>
+      <tr style="height:2pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt" rowspan="2" bgcolor="#EAEDF3">
+          <p class="s1" style="padding-top: 5pt;padding-left: 69pt;text-indent: 0pt;text-align: left;">Email*</p>
+        </td>
+        <td style="width:233pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" colspan="5" rowspan="2">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+        <td style="width:66pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt" rowspan="2">
+          <p class="s1" style="padding-top: 5pt;padding-left: 10pt;text-indent: 0pt;text-align: left;">TAG NO*</p>
+        </td>
+        <td style="width:141pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" colspan="2">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:18pt">
+        <td style="width:141pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" colspan="2">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:22pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#A6A6A6;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" bgcolor="#D5DCE3">
+          <p class="s1" style="padding-top: 3pt;padding-right: 4pt;text-indent: 0pt;text-align: right;">Vehicle year*</p>
+        </td>
+        <td style="width:3pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#A6A6A6" bgcolor="#D5DCE3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+        <td style="width:57pt;border-top-style:solid;border-top-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#A6A6A6;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p style="text-indent: 0pt;text-align: left;"></p>
+        </td>
+        <td style="width:76pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#A6A6A6;border-right-style:solid;border-right-width:1pt" bgcolor="#D5DCE3">
+          <p class="s1" style="padding-top: 3pt;padding-left: 33pt;text-indent: 0pt;text-align: left;">Make*</p>
+        </td>
+        <td style="width:68pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+        <td style="width:101pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#A6A6A6;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" bgcolor="#D5DCE3">
+          <p class="s1" style="padding-top: 3pt;padding-left: 55pt;text-indent: 0pt;text-align: left;">Model*</p>
+        </td>
+        <td style="width:5pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#A6A6A6;border-right-style:solid;border-right-width:1pt">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+        <td style="width:130pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" colspan="2">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:110pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#A6A6A6;border-left-style:solid;border-left-width:1pt;border-left-color:#A6A6A6;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#A6A6A6" bgcolor="#EAEDF3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p class="s1" style="padding-left: 10pt;text-indent: 6pt;text-align: left;">VEHICLE ISSUES / REQUESTED WORK</p>
+          <p class="s1" style="padding-left: 22pt;text-indent: 0pt;line-height: 13pt;text-align: left;">/ DESCRIPTION*</p>
+        </td>
+        <td style="width:440pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-left-color:#A6A6A6;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#A6A6A6" colspan="8">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p style="padding-left: 3pt;text-indent: 0pt;text-align: left;"></p>
+        </td>
+      </tr>
+      <tr style="height:68pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" bgcolor="#D5DCE3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p class="s1" style="padding-right: 4pt;text-indent: 0pt;text-align: right;">How did you hear</p>
+          <p class="s1" style="padding-right: 4pt;text-indent: 0pt;text-align: right;">about us</p>
+        </td>
+        <td style="width:3pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE" bgcolor="#D5DCE3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+        <td style="width:57pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p style="text-indent: 0pt;text-align: left;"></p>
+        </td>
+        <td style="width:76pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" bgcolor="#D5DCE3">
+          <p class="s1" style="padding-top: 6pt;padding-left: 14pt;padding-right: 5pt;text-indent: 14pt;text-align: right;">Will you need a Rental Car (YES/NO)</p>
+        </td>
+        <td style="width:68pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p class="s2" style="padding-left: 6pt;text-indent: 0pt;text-align: left;">YES</p>
+        </td>
+        <td style="width:101pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" bgcolor="#D5DCE3">
+          <p class="s1" style="padding-top: 6pt;padding-left: 8pt;padding-right: 5pt;text-indent: 25pt;text-align: right;">Free QUICK complementary auto check (YES/NO)</p>
+        </td>
+        <td style="width:46pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p class="s3" style="padding-left: 8pt;text-indent: 0pt;text-align: left;">YES</p>
+        </td>
+        <td style="width:59pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p class="s1" style="padding-left: 4pt;padding-right: 5pt;text-indent: 7pt;text-align: right;">Will you need a car wash</p>
+          <p class="s1" style="padding-left: 6pt;padding-right: 5pt;text-indent: 36pt;line-height: 13pt;text-align: right;">or detailing</p>
+        </td>
+        <td style="width:30pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:56pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt" bgcolor="#D5DCE3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p class="s1" style="padding-right: 4pt;text-indent: 0pt;text-align: right;">TECHNICIAN</p>
+          <p class="s1" style="padding-right: 4pt;text-indent: 0pt;text-align: right;">NOTES</p>
+        </td>
+        <td style="width:440pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:2pt;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" colspan="8">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+        </td>
+      </tr>
+      <tr style="height:124pt">
+        <td style="width:549pt;border-top-style:solid;border-top-width:2pt;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" colspan="9">
+          <p class="s1" style="padding-top: 1pt;padding-left: 5pt;padding-right: 5pt;text-indent: 0pt;text-align: justify;">Customers are responsible for removing important and personal items from their vehicle as repair work may sometimes be performed by multiple technicians and or repair shops. Management is not responsible for loss of property or damage to vehicles. Customers are also responsible for securing their means of payment including communicating with insurance company if necessary or completing financing requirements & procedures. By signing, you also <u>agree</u> that we can repossess your vehicle in event of defaulting payment or nonpayment of repair work (customer will pay for towing and storage in event of repossession of vehicle for balance due). Mechanic lien may apply where necessary. Your vehicle meets state reg requirements & authorize us to operate it on streets, highways or elsewhere for <span style="font-family: var(--font2),sans-serif; font-size: 11pt; text-indent: 0pt; letter-spacing: -0.02em; background-color: var(--bs-body-bg);">testing, inspection, completion of driving cycle, and reliability.</span></p>
+        </td>
+      </tr>
+      <tr style="height:82pt">
+        <td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" bgcolor="#D5DCE3">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p class="s1" style="padding-top: 11pt;padding-left: 40pt;text-indent: 0pt;text-align: left;">Signature of</p>
+          <p class="s1" style="padding-left: 64pt;text-indent: 0pt;text-align: left;">CLIENT*</p>
+        </td>
+        <td style="width:440pt;border-top-style:solid;border-top-width:1pt;border-top-color:#BEBEBE;border-left-style:solid;border-left-width:1pt;border-left-color:#BEBEBE;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#BEBEBE;border-right-style:solid;border-right-width:1pt;border-right-color:#BEBEBE" colspan="8">
+          <p style="text-indent: 0pt;text-align: left;"><br></p>
+          <p style="padding-left: 4pt;text-indent: 0pt;text-align: left;"></p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="text-indent: 0pt;text-align: left;"><br></p>
+  <p style="padding-left: 200pt;text-indent: 0pt;text-align: left;"></p>
+</div>             
+            </div>
+        </div>
+    </div>
